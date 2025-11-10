@@ -1,6 +1,6 @@
-print("Hello, World!")
+print("Hello World!")
 
-def add(a, b):
+def add(a, b) 
     return a + b
 
 result = add(5, 3)
