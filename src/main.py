@@ -1,4 +1,4 @@
-print("Hello ZGU - Best University!")
+print("Welcome to ZGU - Best University!") 
 
 def add(a, b):
     return a + b
