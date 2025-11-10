@@ -1,4 +1,4 @@
-print("Hello, World!")
+print("Hello from ZGU!")
 
 def add(a, b):
     return a + b
