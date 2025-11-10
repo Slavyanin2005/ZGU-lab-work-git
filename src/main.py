@@ -3,5 +3,10 @@ print("Hello from ZGU!")
 def add(a, b):
     return a + b
 
-result = add(5, 3)
-print(f"5 + 3 = {result}")
+def multiply(a, b):
+    return a * b
+
+result_add = add(5, 3)
+result_mult = multiply(4, 5)
+print(f"5 + 3 = {result_add}")
+print(f"4 * 5 = {result_mult}")
